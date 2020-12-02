@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/m879/reactwithadmin.git/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/m879/reactwithadmin.git/static/js/main.10db3a0c.chunk.js",
+    "main.js.map": "/m879/reactwithadmin.git/static/js/main.10db3a0c.chunk.js.map",
+    "runtime-main.js": "/m879/reactwithadmin.git/static/js/runtime-main.86488df6.js",
+    "runtime-main.js.map": "/m879/reactwithadmin.git/static/js/runtime-main.86488df6.js.map",
+    "static/js/2.e583e95a.chunk.js": "/m879/reactwithadmin.git/static/js/2.e583e95a.chunk.js",
+    "static/js/2.e583e95a.chunk.js.map": "/m879/reactwithadmin.git/static/js/2.e583e95a.chunk.js.map",
+    "static/js/3.9ce54fec.chunk.js": "/m879/reactwithadmin.git/static/js/3.9ce54fec.chunk.js",
+    "static/js/3.9ce54fec.chunk.js.map": "/m879/reactwithadmin.git/static/js/3.9ce54fec.chunk.js.map",
+    "index.html": "/m879/reactwithadmin.git/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/m879/reactwithadmin.git/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.e583e95a.chunk.js.LICENSE.txt": "/m879/reactwithadmin.git/static/js/2.e583e95a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86488df6.js",
+    "static/js/2.e583e95a.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.10db3a0c.chunk.js"
+  ]
+}
